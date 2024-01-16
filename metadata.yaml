@@ -9,7 +9,12 @@ contributor:
     gutenberg_agent_id: '7238'
     url: http://www.gutenberg.org/2009/agents/7238
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Nast
+covers:
+- cover_type: archival
+  image_path: 72546-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72546#Thomas-Nast-s-Christmas-drawings-for-the-human-race
 gutenberg_issued: '2023-12-31'
 gutenberg_type: Text
 identifiers:
